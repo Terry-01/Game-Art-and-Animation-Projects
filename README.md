@@ -1,2 +1,2 @@
 # Game-Art-and-Animation-Projects
-This repository will show different projects I have worked on to improve my game design skills
+This repository will show the differenet projects I have made from tutorials and online research.
